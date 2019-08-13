@@ -3,6 +3,10 @@
   "description": "An extendible middleware plugin.",
   "version": "0.1.0",
   "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/actengage/vue-middlewares"
+  },
   "scripts": {
     "commit": "git add -A && git commit -m 'Pre-release commit';",
     "serve": "vue-cli-service serve",
